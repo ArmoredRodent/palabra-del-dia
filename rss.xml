@@ -5,7 +5,14 @@
     <link>https://example.com/palabra-del-dia</link>
     <description>A Spanish word of the day, with English translation and an example sentence.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 03:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:14:38 +0000</lastBuildDate>
+    <item>
+      <title>trasnochar — to stay up all night</title>
+      <link>https://example.com/palabra-del-dia</link>
+      <guid isPermaLink="false">palabra-del-dia-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;trasnochar&lt;/strong&gt; &lt;em&gt;/tɾas.no.ˈtʃaɾ/&lt;/em&gt; — verb&lt;/p&gt;&lt;p&gt;to stay up all night&lt;/p&gt;&lt;p&gt;&lt;strong&gt;En una frase:&lt;/strong&gt;&lt;br&gt;Trasnoché terminando el proyecto y ahora tengo sueño.&lt;br&gt;&lt;span style=&quot;color:#666&quot;&gt;I stayed up all night finishing the project, and now I&amp;#x27;m sleepy.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>madrugar — to rise very early</title>
       <link>https://example.com/palabra-del-dia</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">palabra-del-dia-2026-08-16</guid>
       <pubDate>Sun, 16 Aug 2026 06:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;desperezarse&lt;/strong&gt; &lt;em&gt;/des.pe.ɾe.ˈsaɾ.se/&lt;/em&gt; — verb (reflexive)&lt;/p&gt;&lt;p&gt;to stretch (upon waking)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;En una frase:&lt;/strong&gt;&lt;br&gt;El gato se desperezó lentamente al pie de la cama.&lt;br&gt;&lt;span style=&quot;color:#666&quot;&gt;The cat slowly stretched at the foot of the bed.&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>madrugón — a very early start (colloquial)</title>
-      <link>https://example.com/palabra-del-dia</link>
-      <guid isPermaLink="false">palabra-del-dia-2026-08-15</guid>
-      <pubDate>Sat, 15 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;madrugón&lt;/strong&gt; &lt;em&gt;/ma.ðɾu.ˈɣon/&lt;/em&gt; — noun (m.)&lt;/p&gt;&lt;p&gt;a very early start (colloquial)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;En una frase:&lt;/strong&gt;&lt;br&gt;Nos dimos un madrugón para llegar antes que el tráfico.&lt;br&gt;&lt;span style=&quot;color:#666&quot;&gt;We made a very early start to beat the traffic.&lt;/span&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
