@@ -26,7 +26,7 @@ OUTPUT_FILE = HERE / "rss.xml"
 
 # --- Configure this for your own feed -------------------------------------
 FEED_TITLE = "Palabra del Día"
-FEED_LINK = "https://example.com/palabra-del-dia"  # change to where you host it
+FEED_LINK = "https://armoredrodent.github.io/palabra-del-dia/"  # change to where you host it
 FEED_DESCRIPTION = "A Spanish word of the day, with English translation and an example sentence."
 FEED_LANGUAGE = "en"
 DAYS_BACK = 13   # how many past days to include as items
