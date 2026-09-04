@@ -1,92 +1,1042 @@
 [
-  {"es": "madrugar", "ipa": "/ma.ðɾu.ˈɣaɾ/", "pos": "verb", "en": "to rise very early",
-   "ex_es": "Prefiero madrugar antes de que empiece el ruido de la ciudad.",
-   "ex_en": "I prefer to rise very early before the city noise starts."},
-  {"es": "trasnochar", "ipa": "/tɾas.no.ˈtʃaɾ/", "pos": "verb", "en": "to stay up all night",
-   "ex_es": "Trasnoché terminando el proyecto y ahora tengo sueño.",
-   "ex_en": "I stayed up all night finishing the project, and now I'm sleepy."},
-  {"es": "empalagoso", "ipa": "/em.pa.la.ˈɣo.so/", "pos": "adjective", "en": "sickly sweet, cloying",
-   "ex_es": "El postre estaba tan empalagoso que no pude terminarlo.",
-   "ex_en": "The dessert was so sickly sweet I couldn't finish it."},
-  {"es": "estrenar", "ipa": "/es.tɾe.ˈnaɾ/", "pos": "verb", "en": "to use/wear for the first time",
-   "ex_es": "Voy a estrenar estos zapatos en la fiesta del sábado.",
-   "ex_en": "I'm going to wear these shoes for the first time at Saturday's party."},
-  {"es": "tacaño", "ipa": "/ta.ˈka.ɲo/", "pos": "adjective", "en": "stingy, cheap (person)",
-   "ex_es": "Es tan tacaño que nunca invita ni un café.",
-   "ex_en": "He's so stingy he never even buys a coffee."},
-  {"es": "madrugada", "ipa": "/ma.ðɾu.ˈɣa.ða/", "pos": "noun (f.)", "en": "the small hours, dawn",
-   "ex_es": "Llegamos a casa de madrugada, ya casi amanecía.",
-   "ex_en": "We got home in the small hours, it was almost dawn."},
-  {"es": "chispa", "ipa": "/ˈtʃis.pa/", "pos": "noun (f.)", "en": "spark; wit",
-   "ex_es": "Esa comediante tiene mucha chispa en el escenario.",
-   "ex_en": "That comedian has a lot of wit on stage."},
-  {"es": "desvelarse", "ipa": "/des.βe.ˈlaɾ.se/", "pos": "verb (reflexive)", "en": "to lose sleep, stay awake",
-   "ex_es": "Me desvelé pensando en la entrevista de mañana.",
-   "ex_en": "I lost sleep thinking about tomorrow's interview."},
-  {"es": "enterarse", "ipa": "/en.te.ˈɾaɾ.se/", "pos": "verb (reflexive)", "en": "to find out, become aware",
-   "ex_es": "Me enteré de la noticia por un amigo, no por las noticias.",
-   "ex_en": "I found out the news from a friend, not from the news."},
-  {"es": "madrugador", "ipa": "/ma.ðɾu.ɣa.ˈðoɾ/", "pos": "noun/adj.", "en": "early riser",
-   "ex_es": "Mi hermana es muy madrugadora; se levanta antes del sol.",
-   "ex_en": "My sister is a real early riser; she gets up before the sun."},
-  {"es": "búho", "ipa": "/ˈbu.o/", "pos": "noun (m.)", "en": "owl",
-   "ex_es": "Un búho ululaba afuera mientras yo seguía trabajando.",
-   "ex_en": "An owl was hooting outside while I kept working."},
-  {"es": "agobiado", "ipa": "/a.ɣo.ˈβja.ðo/", "pos": "adjective", "en": "overwhelmed, stressed",
-   "ex_es": "Está agobiado con tantos pendientes esta semana.",
-   "ex_en": "He's overwhelmed with so many things pending this week."},
-  {"es": "enredo", "ipa": "/en.ˈre.ðo/", "pos": "noun (m.)", "en": "tangle, mess, mix-up",
-   "ex_es": "Hubo un enredo con las reservas y perdimos la mesa.",
-   "ex_en": "There was a mix-up with the reservations and we lost the table."},
-  {"es": "cotidiano", "ipa": "/ko.ti.ˈðja.no/", "pos": "adjective", "en": "everyday, routine",
-   "ex_es": "Caminar al trabajo se volvió parte de mi vida cotidiana.",
-   "ex_en": "Walking to work became part of my everyday life."},
-  {"es": "recién", "ipa": "/re.ˈsjen/", "pos": "adverb", "en": "just, recently",
-   "ex_es": "El pan está recién horneado, todavía humea.",
-   "ex_en": "The bread is freshly baked; it's still steaming."},
-  {"es": "faena", "ipa": "/fa.ˈe.na/", "pos": "noun (f.)", "en": "task, chore, hard work",
-   "ex_es": "Terminar el jardín fue toda una faena este fin de semana.",
-   "ex_en": "Finishing the garden was quite a chore this weekend."},
-  {"es": "trasnochado", "ipa": "/tɾas.no.ˈtʃa.ðo/", "pos": "adjective", "en": "sleep-deprived, worn out",
-   "ex_es": "Llegué a la oficina trasnochado y con dos cafés en la mano.",
-   "ex_en": "I got to the office sleep-deprived, with two coffees in hand."},
-  {"es": "madrugón", "ipa": "/ma.ðɾu.ˈɣon/", "pos": "noun (m.)", "en": "a very early start (colloquial)",
-   "ex_es": "Nos dimos un madrugón para llegar antes que el tráfico.",
-   "ex_en": "We made a very early start to beat the traffic."},
-  {"es": "desperezarse", "ipa": "/des.pe.ɾe.ˈsaɾ.se/", "pos": "verb (reflexive)", "en": "to stretch (upon waking)",
-   "ex_es": "El gato se desperezó lentamente al pie de la cama.",
-   "ex_en": "The cat slowly stretched at the foot of the bed."},
-  {"es": "insomnio", "ipa": "/in.ˈsom.njo/", "pos": "noun (m.)", "en": "insomnia",
-   "ex_es": "El insomnio lo tuvo mirando el techo hasta las tres.",
-   "ex_en": "Insomnia had him staring at the ceiling until three."},
-  {"es": "arrullar", "ipa": "/a.ru.ˈʎaɾ/", "pos": "verb", "en": "to lull, sing to sleep",
-   "ex_es": "La lluvia en el techo nos arrulló toda la noche.",
-   "ex_en": "The rain on the roof lulled us to sleep all night."},
-  {"es": "amanecer", "ipa": "/a.ma.ne.ˈseɾ/", "pos": "verb / noun (m.)", "en": "to dawn / dawn, sunrise",
-   "ex_es": "Nos quedamos charlando hasta que amaneció.",
-   "ex_en": "We stayed talking until dawn broke."},
-  {"es": "vaguear", "ipa": "/ba.ɣe.ˈaɾ/", "pos": "verb", "en": "to laze about",
-   "ex_es": "El domingo lo pasamos vagueando en el sofá.",
-   "ex_en": "We spent Sunday lazing about on the couch."},
-  {"es": "pereza", "ipa": "/pe.ˈɾe.sa/", "pos": "noun (f.)", "en": "laziness, reluctance",
-   "ex_es": "Me da pereza salir con este frío.",
-   "ex_en": "I really don't feel like going out in this cold."},
-  {"es": "trajín", "ipa": "/tɾa.ˈxin/", "pos": "noun (m.)", "en": "hustle and bustle",
-   "ex_es": "El mercado tiene su trajín ya desde las seis de la mañana.",
-   "ex_en": "The market is already bustling by six in the morning."},
-  {"es": "somnoliento", "ipa": "/som.no.ˈljen.to/", "pos": "adjective", "en": "drowsy, sleepy",
-   "ex_es": "Contestó el teléfono todavía somnoliento.",
-   "ex_en": "He answered the phone still drowsy."},
-  {"es": "velar", "ipa": "/be.ˈlaɾ/", "pos": "verb", "en": "to stay awake watching over someone/something",
-   "ex_es": "Velaron toda la noche junto a la abuela enferma.",
-   "ex_en": "They stayed awake all night watching over their sick grandmother."},
-  {"es": "atardecer", "ipa": "/a.taɾ.ðe.ˈseɾ/", "pos": "verb / noun (m.)", "en": "to get dark (evening) / dusk",
-   "ex_es": "Salimos a caminar justo cuando empezaba a atardecer.",
-   "ex_en": "We went for a walk just as dusk was starting."},
-  {"es": "sigiloso", "ipa": "/si.xi.ˈlo.so/", "pos": "adjective", "en": "stealthy, quiet",
-   "ex_es": "Entró sigiloso para no despertar a nadie.",
-   "ex_en": "He came in stealthily so as not to wake anyone."},
-  {"es": "cavilar", "ipa": "/ka.βi.ˈlaɾ/", "pos": "verb", "en": "to ponder, mull over",
-   "ex_es": "Pasó la noche cavilando sobre la decisión.",
-   "ex_en": "He spent the night mulling over the decision."}
+  {
+    "es": "madrugar",
+    "ipa": "/ma.ðɾu.ˈɣaɾ/",
+    "pos": "verb",
+    "en": "to rise very early",
+    "ex_es": "Prefiero madrugar antes de que empiece el ruido de la ciudad.",
+    "ex_en": "I prefer to rise very early before the city noise starts."
+  },
+  {
+    "es": "trasnochar",
+    "ipa": "/tɾas.no.ˈtʃaɾ/",
+    "pos": "verb",
+    "en": "to stay up all night",
+    "ex_es": "Trasnoché terminando el proyecto y ahora tengo sueño.",
+    "ex_en": "I stayed up all night finishing the project, and now I'm sleepy."
+  },
+  {
+    "es": "empalagoso",
+    "ipa": "/em.pa.la.ˈɣo.so/",
+    "pos": "adjective",
+    "en": "sickly sweet, cloying",
+    "ex_es": "El postre estaba tan empalagoso que no pude terminarlo.",
+    "ex_en": "The dessert was so sickly sweet I couldn't finish it."
+  },
+  {
+    "es": "estrenar",
+    "ipa": "/es.tɾe.ˈnaɾ/",
+    "pos": "verb",
+    "en": "to use/wear for the first time",
+    "ex_es": "Voy a estrenar estos zapatos en la fiesta del sábado.",
+    "ex_en": "I'm going to wear these shoes for the first time at Saturday's party."
+  },
+  {
+    "es": "tacaño",
+    "ipa": "/ta.ˈka.ɲo/",
+    "pos": "adjective",
+    "en": "stingy, cheap (person)",
+    "ex_es": "Es tan tacaño que nunca invita ni un café.",
+    "ex_en": "He's so stingy he never even buys a coffee."
+  },
+  {
+    "es": "madrugada",
+    "ipa": "/ma.ðɾu.ˈɣa.ða/",
+    "pos": "noun (f.)",
+    "en": "the small hours, dawn",
+    "ex_es": "Llegamos a casa de madrugada, ya casi amanecía.",
+    "ex_en": "We got home in the small hours, it was almost dawn."
+  },
+  {
+    "es": "chispa",
+    "ipa": "/ˈtʃis.pa/",
+    "pos": "noun (f.)",
+    "en": "spark; wit",
+    "ex_es": "Esa comediante tiene mucha chispa en el escenario.",
+    "ex_en": "That comedian has a lot of wit on stage."
+  },
+  {
+    "es": "desvelarse",
+    "ipa": "/des.βe.ˈlaɾ.se/",
+    "pos": "verb (reflexive)",
+    "en": "to lose sleep, stay awake",
+    "ex_es": "Me desvelé pensando en la entrevista de mañana.",
+    "ex_en": "I lost sleep thinking about tomorrow's interview."
+  },
+  {
+    "es": "enterarse",
+    "ipa": "/en.te.ˈɾaɾ.se/",
+    "pos": "verb (reflexive)",
+    "en": "to find out, become aware",
+    "ex_es": "Me enteré de la noticia por un amigo, no por las noticias.",
+    "ex_en": "I found out the news from a friend, not from the news."
+  },
+  {
+    "es": "madrugador",
+    "ipa": "/ma.ðɾu.ɣa.ˈðoɾ/",
+    "pos": "noun/adj.",
+    "en": "early riser",
+    "ex_es": "Mi hermana es muy madrugadora; se levanta antes del sol.",
+    "ex_en": "My sister is a real early riser; she gets up before the sun."
+  },
+  {
+    "es": "búho",
+    "ipa": "/ˈbu.o/",
+    "pos": "noun (m.)",
+    "en": "owl",
+    "ex_es": "Un búho ululaba afuera mientras yo seguía trabajando.",
+    "ex_en": "An owl was hooting outside while I kept working."
+  },
+  {
+    "es": "agobiado",
+    "ipa": "/a.ɣo.ˈβja.ðo/",
+    "pos": "adjective",
+    "en": "overwhelmed, stressed",
+    "ex_es": "Está agobiado con tantos pendientes esta semana.",
+    "ex_en": "He's overwhelmed with so many things pending this week."
+  },
+  {
+    "es": "enredo",
+    "ipa": "/en.ˈre.ðo/",
+    "pos": "noun (m.)",
+    "en": "tangle, mess, mix-up",
+    "ex_es": "Hubo un enredo con las reservas y perdimos la mesa.",
+    "ex_en": "There was a mix-up with the reservations and we lost the table."
+  },
+  {
+    "es": "cotidiano",
+    "ipa": "/ko.ti.ˈðja.no/",
+    "pos": "adjective",
+    "en": "everyday, routine",
+    "ex_es": "Caminar al trabajo se volvió parte de mi vida cotidiana.",
+    "ex_en": "Walking to work became part of my everyday life."
+  },
+  {
+    "es": "recién",
+    "ipa": "/re.ˈsjen/",
+    "pos": "adverb",
+    "en": "just, recently",
+    "ex_es": "El pan está recién horneado, todavía humea.",
+    "ex_en": "The bread is freshly baked; it's still steaming."
+  },
+  {
+    "es": "faena",
+    "ipa": "/fa.ˈe.na/",
+    "pos": "noun (f.)",
+    "en": "task, chore, hard work",
+    "ex_es": "Terminar el jardín fue toda una faena este fin de semana.",
+    "ex_en": "Finishing the garden was quite a chore this weekend."
+  },
+  {
+    "es": "trasnochado",
+    "ipa": "/tɾas.no.ˈtʃa.ðo/",
+    "pos": "adjective",
+    "en": "sleep-deprived, worn out",
+    "ex_es": "Llegué a la oficina trasnochado y con dos cafés en la mano.",
+    "ex_en": "I got to the office sleep-deprived, with two coffees in hand."
+  },
+  {
+    "es": "madrugón",
+    "ipa": "/ma.ðɾu.ˈɣon/",
+    "pos": "noun (m.)",
+    "en": "a very early start (colloquial)",
+    "ex_es": "Nos dimos un madrugón para llegar antes que el tráfico.",
+    "ex_en": "We made a very early start to beat the traffic."
+  },
+  {
+    "es": "desperezarse",
+    "ipa": "/des.pe.ɾe.ˈsaɾ.se/",
+    "pos": "verb (reflexive)",
+    "en": "to stretch (upon waking)",
+    "ex_es": "El gato se desperezó lentamente al pie de la cama.",
+    "ex_en": "The cat slowly stretched at the foot of the bed."
+  },
+  {
+    "es": "insomnio",
+    "ipa": "/in.ˈsom.njo/",
+    "pos": "noun (m.)",
+    "en": "insomnia",
+    "ex_es": "El insomnio lo tuvo mirando el techo hasta las tres.",
+    "ex_en": "Insomnia had him staring at the ceiling until three."
+  },
+  {
+    "es": "arrullar",
+    "ipa": "/a.ru.ˈʎaɾ/",
+    "pos": "verb",
+    "en": "to lull, sing to sleep",
+    "ex_es": "La lluvia en el techo nos arrulló toda la noche.",
+    "ex_en": "The rain on the roof lulled us to sleep all night."
+  },
+  {
+    "es": "amanecer",
+    "ipa": "/a.ma.ne.ˈseɾ/",
+    "pos": "verb / noun (m.)",
+    "en": "to dawn / dawn, sunrise",
+    "ex_es": "Nos quedamos charlando hasta que amaneció.",
+    "ex_en": "We stayed talking until dawn broke."
+  },
+  {
+    "es": "vaguear",
+    "ipa": "/ba.ɣe.ˈaɾ/",
+    "pos": "verb",
+    "en": "to laze about",
+    "ex_es": "El domingo lo pasamos vagueando en el sofá.",
+    "ex_en": "We spent Sunday lazing about on the couch."
+  },
+  {
+    "es": "pereza",
+    "ipa": "/pe.ˈɾe.sa/",
+    "pos": "noun (f.)",
+    "en": "laziness, reluctance",
+    "ex_es": "Me da pereza salir con este frío.",
+    "ex_en": "I really don't feel like going out in this cold."
+  },
+  {
+    "es": "trajín",
+    "ipa": "/tɾa.ˈxin/",
+    "pos": "noun (m.)",
+    "en": "hustle and bustle",
+    "ex_es": "El mercado tiene su trajín ya desde las seis de la mañana.",
+    "ex_en": "The market is already bustling by six in the morning."
+  },
+  {
+    "es": "somnoliento",
+    "ipa": "/som.no.ˈljen.to/",
+    "pos": "adjective",
+    "en": "drowsy, sleepy",
+    "ex_es": "Contestó el teléfono todavía somnoliento.",
+    "ex_en": "He answered the phone still drowsy."
+  },
+  {
+    "es": "velar",
+    "ipa": "/be.ˈlaɾ/",
+    "pos": "verb",
+    "en": "to stay awake watching over someone/something",
+    "ex_es": "Velaron toda la noche junto a la abuela enferma.",
+    "ex_en": "They stayed awake all night watching over their sick grandmother."
+  },
+  {
+    "es": "atardecer",
+    "ipa": "/a.taɾ.ðe.ˈseɾ/",
+    "pos": "verb / noun (m.)",
+    "en": "to get dark (evening) / dusk",
+    "ex_es": "Salimos a caminar justo cuando empezaba a atardecer.",
+    "ex_en": "We went for a walk just as dusk was starting."
+  },
+  {
+    "es": "sigiloso",
+    "ipa": "/si.xi.ˈlo.so/",
+    "pos": "adjective",
+    "en": "stealthy, quiet",
+    "ex_es": "Entró sigiloso para no despertar a nadie.",
+    "ex_en": "He came in stealthily so as not to wake anyone."
+  },
+  {
+    "es": "cavilar",
+    "ipa": "/ka.βi.ˈlaɾ/",
+    "pos": "verb",
+    "en": "to ponder, mull over",
+    "ex_es": "Pasó la noche cavilando sobre la decisión.",
+    "ex_en": "He spent the night mulling over the decision."
+  },
+  {
+    "es": "aeropuerto",
+    "ipa": "/a.e.ɾo.ˈpweɾ.to/",
+    "pos": "noun (m.)",
+    "en": "airport",
+    "ex_es": "Llegamos al aeropuerto dos horas antes del vuelo.",
+    "ex_en": "We arrived at the airport two hours before the flight."
+  },
+  {
+    "es": "vuelo",
+    "ipa": "/ˈbwe.lo/",
+    "pos": "noun (m.)",
+    "en": "flight",
+    "ex_es": "Nuestro vuelo sale a las siete de la mañana.",
+    "ex_en": "Our flight leaves at seven in the morning."
+  },
+  {
+    "es": "pasaporte",
+    "ipa": "/pa.sa.ˈpoɾ.te/",
+    "pos": "noun (m.)",
+    "en": "passport",
+    "ex_es": "No olvides llevar el pasaporte en el bolso de mano.",
+    "ex_en": "Don't forget to carry your passport in your carry-on."
+  },
+  {
+    "es": "maleta",
+    "ipa": "/ma.ˈle.ta/",
+    "pos": "noun (f.)",
+    "en": "suitcase",
+    "ex_es": "Hice la maleta la noche antes de viajar.",
+    "ex_en": "I packed my suitcase the night before traveling."
+  },
+  {
+    "es": "equipaje",
+    "ipa": "/e.ki.ˈpa.xe/",
+    "pos": "noun (m.)",
+    "en": "luggage",
+    "ex_es": "Perdieron mi equipaje en la conexión.",
+    "ex_en": "They lost my luggage on the connection."
+  },
+  {
+    "es": "mochila",
+    "ipa": "/mo.ˈtʃi.la/",
+    "pos": "noun (f.)",
+    "en": "backpack",
+    "ex_es": "Llevo el pasaporte y la cámara en la mochila.",
+    "ex_en": "I carry my passport and camera in my backpack."
+  },
+  {
+    "es": "boleto",
+    "ipa": "/bo.ˈle.to/",
+    "pos": "noun (m.)",
+    "en": "ticket",
+    "ex_es": "Compramos los boletos de tren con antelación.",
+    "ex_en": "We bought the train tickets in advance."
+  },
+  {
+    "es": "aduana",
+    "ipa": "/a.ˈðwa.na/",
+    "pos": "noun (f.)",
+    "en": "customs",
+    "ex_es": "Tuvimos que declarar la cámara nueva en la aduana.",
+    "ex_en": "We had to declare the new camera at customs."
+  },
+  {
+    "es": "embarcar",
+    "ipa": "/em.baɾ.ˈkaɾ/",
+    "pos": "verb",
+    "en": "to board",
+    "ex_es": "Empezamos a embarcar por la puerta doce.",
+    "ex_en": "We started boarding at gate twelve."
+  },
+  {
+    "es": "aterrizar",
+    "ipa": "/a.te.ri.ˈsaɾ/",
+    "pos": "verb",
+    "en": "to land",
+    "ex_es": "El avión va a aterrizar con quince minutos de retraso.",
+    "ex_en": "The plane is going to land fifteen minutes late."
+  },
+  {
+    "es": "despegar",
+    "ipa": "/des.pe.ˈɣaɾ/",
+    "pos": "verb",
+    "en": "to take off",
+    "ex_es": "El vuelo despegó justo a tiempo.",
+    "ex_en": "The flight took off right on time."
+  },
+  {
+    "es": "retraso",
+    "ipa": "/re.ˈtɾa.so/",
+    "pos": "noun (m.)",
+    "en": "delay",
+    "ex_es": "Anunciaron un retraso de una hora por el clima.",
+    "ex_en": "They announced a one-hour delay because of the weather."
+  },
+  {
+    "es": "hotel",
+    "ipa": "/o.ˈtel/",
+    "pos": "noun (m.)",
+    "en": "hotel",
+    "ex_es": "Reservamos un hotel cerca de la playa.",
+    "ex_en": "We booked a hotel near the beach."
+  },
+  {
+    "es": "habitación",
+    "ipa": "/a.βi.ta.ˈsjon/",
+    "pos": "noun (f.)",
+    "en": "room",
+    "ex_es": "Pedimos una habitación con vista al mar.",
+    "ex_en": "We asked for a room with an ocean view."
+  },
+  {
+    "es": "reserva",
+    "ipa": "/re.ˈseɾ.βa/",
+    "pos": "noun (f.)",
+    "en": "reservation, booking",
+    "ex_es": "Hice la reserva del hotel por internet.",
+    "ex_en": "I made the hotel reservation online."
+  },
+  {
+    "es": "recepción",
+    "ipa": "/re.sep.ˈsjon/",
+    "pos": "noun (f.)",
+    "en": "front desk, reception",
+    "ex_es": "Dejamos las llaves en la recepción.",
+    "ex_en": "We left the keys at the front desk."
+  },
+  {
+    "es": "llave",
+    "ipa": "/ˈʎa.βe/",
+    "pos": "noun (f.)",
+    "en": "key",
+    "ex_es": "Se me olvidó la llave de la habitación en el cuarto.",
+    "ex_en": "I left the room key inside the room."
+  },
+  {
+    "es": "huésped",
+    "ipa": "/ˈwes.peð/",
+    "pos": "noun (m./f.)",
+    "en": "guest",
+    "ex_es": "El hotel estaba lleno de huéspedes durante el festival.",
+    "ex_en": "The hotel was full of guests during the festival."
+  },
+  {
+    "es": "alojamiento",
+    "ipa": "/a.lo.xa.ˈmjen.to/",
+    "pos": "noun (m.)",
+    "en": "lodging, accommodation",
+    "ex_es": "Buscamos alojamiento barato cerca del centro.",
+    "ex_en": "We looked for cheap accommodation near downtown."
+  },
+  {
+    "es": "almohada",
+    "ipa": "/al.mo.ˈa.ða/",
+    "pos": "noun (f.)",
+    "en": "pillow",
+    "ex_es": "Pedí una almohada extra en la recepción.",
+    "ex_en": "I asked for an extra pillow at the front desk."
+  },
+  {
+    "es": "manta",
+    "ipa": "/ˈman.ta/",
+    "pos": "noun (f.)",
+    "en": "blanket",
+    "ex_es": "Hacía frío, así que pedimos otra manta.",
+    "ex_en": "It was cold, so we asked for another blanket."
+  },
+  {
+    "es": "toalla",
+    "ipa": "/to.ˈa.ʎa/",
+    "pos": "noun (f.)",
+    "en": "towel",
+    "ex_es": "Las toallas limpias están en el armario.",
+    "ex_en": "The clean towels are in the closet."
+  },
+  {
+    "es": "autobús",
+    "ipa": "/au.to.ˈβus/",
+    "pos": "noun (m.)",
+    "en": "bus",
+    "ex_es": "Tomamos el autobús desde el aeropuerto hasta el centro.",
+    "ex_en": "We took the bus from the airport to downtown."
+  },
+  {
+    "es": "tren",
+    "ipa": "/tɾen/",
+    "pos": "noun (m.)",
+    "en": "train",
+    "ex_es": "El tren a Madrid sale del andén tres.",
+    "ex_en": "The train to Madrid leaves from platform three."
+  },
+  {
+    "es": "metro",
+    "ipa": "/ˈme.tɾo/",
+    "pos": "noun (m.)",
+    "en": "subway",
+    "ex_es": "Es más rápido moverse en metro que en taxi.",
+    "ex_en": "It's faster to get around by subway than by taxi."
+  },
+  {
+    "es": "taxi",
+    "ipa": "/ˈtak.si/",
+    "pos": "noun (m.)",
+    "en": "taxi",
+    "ex_es": "Pedimos un taxi para llegar al aeropuerto.",
+    "ex_en": "We called a taxi to get to the airport."
+  },
+  {
+    "es": "coche",
+    "ipa": "/ˈko.tʃe/",
+    "pos": "noun (m.)",
+    "en": "car",
+    "ex_es": "Alquilamos un coche para recorrer la costa.",
+    "ex_en": "We rented a car to drive along the coast."
+  },
+  {
+    "es": "alquilar",
+    "ipa": "/al.ki.ˈlaɾ/",
+    "pos": "verb",
+    "en": "to rent",
+    "ex_es": "Decidimos alquilar bicicletas para explorar la ciudad.",
+    "ex_en": "We decided to rent bikes to explore the city."
+  },
+  {
+    "es": "conductor",
+    "ipa": "/kon.duk.ˈtoɾ/",
+    "pos": "noun (m.)",
+    "en": "driver",
+    "ex_es": "El conductor del autobús nos indicó la parada correcta.",
+    "ex_en": "The bus driver pointed us to the right stop."
+  },
+  {
+    "es": "parada",
+    "ipa": "/pa.ˈɾa.ða/",
+    "pos": "noun (f.)",
+    "en": "stop (bus, train)",
+    "ex_es": "La parada del autobús está justo enfrente del hotel.",
+    "ex_en": "The bus stop is right in front of the hotel."
+  },
+  {
+    "es": "andén",
+    "ipa": "/an.ˈden/",
+    "pos": "noun (m.)",
+    "en": "platform",
+    "ex_es": "Esperamos el tren en el andén dos.",
+    "ex_en": "We waited for the train on platform two."
+  },
+  {
+    "es": "estación",
+    "ipa": "/es.ta.ˈsjon/",
+    "pos": "noun (f.)",
+    "en": "station",
+    "ex_es": "La estación de trenes queda a diez minutos caminando.",
+    "ex_en": "The train station is a ten-minute walk away."
+  },
+  {
+    "es": "carretera",
+    "ipa": "/ka.re.ˈte.ɾa/",
+    "pos": "noun (f.)",
+    "en": "highway, road",
+    "ex_es": "Tomamos la carretera de la costa en vez de la autopista.",
+    "ex_en": "We took the coastal road instead of the highway."
+  },
+  {
+    "es": "tráfico",
+    "ipa": "/ˈtɾa.fi.ko/",
+    "pos": "noun (m.)",
+    "en": "traffic",
+    "ex_es": "Había mucho tráfico camino al aeropuerto.",
+    "ex_en": "There was a lot of traffic on the way to the airport."
+  },
+  {
+    "es": "mapa",
+    "ipa": "/ˈma.pa/",
+    "pos": "noun (m.)",
+    "en": "map",
+    "ex_es": "Usamos un mapa de papel porque no teníamos señal.",
+    "ex_en": "We used a paper map because we had no signal."
+  },
+  {
+    "es": "dirección",
+    "ipa": "/di.rek.ˈsjon/",
+    "pos": "noun (f.)",
+    "en": "address, direction",
+    "ex_es": "¿Me puede dar la dirección del museo?",
+    "ex_en": "Could you give me the address of the museum?"
+  },
+  {
+    "es": "calle",
+    "ipa": "/ˈka.ʎe/",
+    "pos": "noun (f.)",
+    "en": "street",
+    "ex_es": "El mercado está al final de esta calle.",
+    "ex_en": "The market is at the end of this street."
+  },
+  {
+    "es": "esquina",
+    "ipa": "/es.ˈki.na/",
+    "pos": "noun (f.)",
+    "en": "corner",
+    "ex_es": "Gira a la izquierda en la próxima esquina.",
+    "ex_en": "Turn left at the next corner."
+  },
+  {
+    "es": "cerca",
+    "ipa": "/ˈseɾ.ka/",
+    "pos": "adverb",
+    "en": "near",
+    "ex_es": "La farmacia está cerca del hotel.",
+    "ex_en": "The pharmacy is near the hotel."
+  },
+  {
+    "es": "lejos",
+    "ipa": "/ˈle.xos/",
+    "pos": "adverb",
+    "en": "far",
+    "ex_es": "El museo no está lejos, se puede ir caminando.",
+    "ex_en": "The museum isn't far, you can walk there."
+  },
+  {
+    "es": "derecha",
+    "ipa": "/de.ˈre.tʃa/",
+    "pos": "noun (f.)",
+    "en": "right (direction)",
+    "ex_es": "El restaurante está a la derecha de la plaza.",
+    "ex_en": "The restaurant is to the right of the square."
+  },
+  {
+    "es": "izquierda",
+    "ipa": "/is.ˈkjeɾ.ða/",
+    "pos": "noun (f.)",
+    "en": "left (direction)",
+    "ex_es": "Sigue todo recto y luego gira a la izquierda.",
+    "ex_en": "Keep going straight and then turn left."
+  },
+  {
+    "es": "cruzar",
+    "ipa": "/kɾu.ˈsaɾ/",
+    "pos": "verb",
+    "en": "to cross",
+    "ex_es": "Hay que cruzar el puente para llegar al casco antiguo.",
+    "ex_en": "You have to cross the bridge to get to the old town."
+  },
+  {
+    "es": "perderse",
+    "ipa": "/peɾ.ˈdeɾ.se/",
+    "pos": "verb (reflexive)",
+    "en": "to get lost",
+    "ex_es": "Nos perdimos buscando la estación de metro.",
+    "ex_en": "We got lost looking for the subway station."
+  },
+  {
+    "es": "restaurante",
+    "ipa": "/res.tau.ˈɾan.te/",
+    "pos": "noun (m.)",
+    "en": "restaurant",
+    "ex_es": "Cenamos en un restaurante muy tradicional.",
+    "ex_en": "We had dinner at a very traditional restaurant."
+  },
+  {
+    "es": "menú",
+    "ipa": "/me.ˈnu/",
+    "pos": "noun (m.)",
+    "en": "menu",
+    "ex_es": "El camarero nos trajo el menú en inglés.",
+    "ex_en": "The waiter brought us the menu in English."
+  },
+  {
+    "es": "cuenta",
+    "ipa": "/ˈkwen.ta/",
+    "pos": "noun (f.)",
+    "en": "bill, check",
+    "ex_es": "Pedimos la cuenta al terminar de cenar.",
+    "ex_en": "We asked for the check after finishing dinner."
+  },
+  {
+    "es": "propina",
+    "ipa": "/pɾo.ˈpi.na/",
+    "pos": "noun (f.)",
+    "en": "tip",
+    "ex_es": "Dejamos una propina generosa por el buen servicio.",
+    "ex_en": "We left a generous tip for the good service."
+  },
+  {
+    "es": "camarero",
+    "ipa": "/ka.ma.ˈɾe.ɾo/",
+    "pos": "noun (m.)",
+    "en": "waiter",
+    "ex_es": "El camarero nos recomendó el plato del día.",
+    "ex_en": "The waiter recommended the dish of the day."
+  },
+  {
+    "es": "mesa",
+    "ipa": "/ˈme.sa/",
+    "pos": "noun (f.)",
+    "en": "table",
+    "ex_es": "Reservamos una mesa para cuatro personas.",
+    "ex_en": "We reserved a table for four people."
+  },
+  {
+    "es": "plato",
+    "ipa": "/ˈpla.to/",
+    "pos": "noun (m.)",
+    "en": "dish, plate",
+    "ex_es": "El plato principal venía con verduras.",
+    "ex_en": "The main dish came with vegetables."
+  },
+  {
+    "es": "bebida",
+    "ipa": "/be.ˈβi.ða/",
+    "pos": "noun (f.)",
+    "en": "drink",
+    "ex_es": "La bebida no estaba incluida en el precio.",
+    "ex_en": "The drink wasn't included in the price."
+  },
+  {
+    "es": "postre",
+    "ipa": "/ˈpos.tɾe/",
+    "pos": "noun (m.)",
+    "en": "dessert",
+    "ex_es": "De postre pedimos flan.",
+    "ex_en": "For dessert we ordered flan."
+  },
+  {
+    "es": "picante",
+    "ipa": "/pi.ˈkan.te/",
+    "pos": "adjective",
+    "en": "spicy",
+    "ex_es": "La salsa era demasiado picante para mí.",
+    "ex_en": "The sauce was too spicy for me."
+  },
+  {
+    "es": "desayuno",
+    "ipa": "/de.sa.ˈʝu.no/",
+    "pos": "noun (m.)",
+    "en": "breakfast",
+    "ex_es": "El desayuno está incluido en la reserva.",
+    "ex_en": "Breakfast is included in the booking."
+  },
+  {
+    "es": "almuerzo",
+    "ipa": "/al.ˈmweɾ.so/",
+    "pos": "noun (m.)",
+    "en": "lunch",
+    "ex_es": "Paramos a mitad de camino para el almuerzo.",
+    "ex_en": "We stopped halfway for lunch."
+  },
+  {
+    "es": "cena",
+    "ipa": "/ˈse.na/",
+    "pos": "noun (f.)",
+    "en": "dinner",
+    "ex_es": "Reservamos mesa para la cena a las nueve.",
+    "ex_en": "We booked a table for dinner at nine."
+  },
+  {
+    "es": "probar",
+    "ipa": "/pɾo.ˈβaɾ/",
+    "pos": "verb",
+    "en": "to try, to taste",
+    "ex_es": "Quiero probar la comida callejera del mercado.",
+    "ex_en": "I want to try the street food at the market."
+  },
+  {
+    "es": "dinero",
+    "ipa": "/di.ˈne.ɾo/",
+    "pos": "noun (m.)",
+    "en": "money",
+    "ex_es": "Cambié algo de dinero antes de salir del aeropuerto.",
+    "ex_en": "I exchanged some money before leaving the airport."
+  },
+  {
+    "es": "efectivo",
+    "ipa": "/e.fek.ˈti.βo/",
+    "pos": "noun (m.)",
+    "en": "cash",
+    "ex_es": "Algunos mercados solo aceptan efectivo.",
+    "ex_en": "Some markets only accept cash."
+  },
+  {
+    "es": "cambio",
+    "ipa": "/ˈkam.bjo/",
+    "pos": "noun (m.)",
+    "en": "change, exchange",
+    "ex_es": "Necesito cambio para pagar el autobús.",
+    "ex_en": "I need change to pay for the bus."
+  },
+  {
+    "es": "tarjeta",
+    "ipa": "/taɾ.ˈxe.ta/",
+    "pos": "noun (f.)",
+    "en": "card",
+    "ex_es": "Pagué la habitación con tarjeta de crédito.",
+    "ex_en": "I paid for the room with a credit card."
+  },
+  {
+    "es": "precio",
+    "ipa": "/ˈpɾe.sjo/",
+    "pos": "noun (m.)",
+    "en": "price",
+    "ex_es": "El precio del boleto subió antes de las vacaciones.",
+    "ex_en": "The ticket price went up before the holidays."
+  },
+  {
+    "es": "barato",
+    "ipa": "/ba.ˈɾa.to/",
+    "pos": "adjective",
+    "en": "cheap",
+    "ex_es": "Encontramos un vuelo bastante barato.",
+    "ex_en": "We found a fairly cheap flight."
+  },
+  {
+    "es": "caro",
+    "ipa": "/ˈka.ɾo/",
+    "pos": "adjective",
+    "en": "expensive",
+    "ex_es": "El taxi resultó más caro de lo que pensábamos.",
+    "ex_en": "The taxi turned out to be more expensive than we thought."
+  },
+  {
+    "es": "mercado",
+    "ipa": "/meɾ.ˈka.ðo/",
+    "pos": "noun (m.)",
+    "en": "market",
+    "ex_es": "El mercado local vende fruta fresca cada mañana.",
+    "ex_en": "The local market sells fresh fruit every morning."
+  },
+  {
+    "es": "tienda",
+    "ipa": "/ˈtjen.da/",
+    "pos": "noun (f.)",
+    "en": "shop, store",
+    "ex_es": "Entramos en una tienda a comprar recuerdos.",
+    "ex_en": "We went into a shop to buy souvenirs."
+  },
+  {
+    "es": "regatear",
+    "ipa": "/re.ɣa.te.ˈaɾ/",
+    "pos": "verb",
+    "en": "to haggle",
+    "ex_es": "En el mercado siempre se puede regatear un poco.",
+    "ex_en": "At the market you can always haggle a little."
+  },
+  {
+    "es": "idioma",
+    "ipa": "/i.ˈðjo.ma/",
+    "pos": "noun (m.)",
+    "en": "language",
+    "ex_es": "No hablan el idioma local, pero se hacen entender.",
+    "ex_en": "They don't speak the local language, but they manage to communicate."
+  },
+  {
+    "es": "hablar",
+    "ipa": "/a.ˈβlaɾ/",
+    "pos": "verb",
+    "en": "to speak",
+    "ex_es": "El recepcionista habla inglés y español.",
+    "ex_en": "The receptionist speaks English and Spanish."
+  },
+  {
+    "es": "entender",
+    "ipa": "/en.ten.ˈdeɾ/",
+    "pos": "verb",
+    "en": "to understand",
+    "ex_es": "Me costó entender el acento al principio.",
+    "ex_en": "I had trouble understanding the accent at first."
+  },
+  {
+    "es": "traducir",
+    "ipa": "/tɾa.ðu.ˈsiɾ/",
+    "pos": "verb",
+    "en": "to translate",
+    "ex_es": "Usé el teléfono para traducir el menú.",
+    "ex_en": "I used my phone to translate the menu."
+  },
+  {
+    "es": "conexión",
+    "ipa": "/ko.nek.ˈsjon/",
+    "pos": "noun (f.)",
+    "en": "connection",
+    "ex_es": "El hotel tiene buena conexión a internet.",
+    "ex_en": "The hotel has good internet connection."
+  },
+  {
+    "es": "cargador",
+    "ipa": "/kaɾ.ɣa.ˈðoɾ/",
+    "pos": "noun (m.)",
+    "en": "charger",
+    "ex_es": "Olvidé el cargador del teléfono en casa.",
+    "ex_en": "I forgot my phone charger at home."
+  },
+  {
+    "es": "enchufe",
+    "ipa": "/en.ˈtʃu.fe/",
+    "pos": "noun (m.)",
+    "en": "electrical outlet",
+    "ex_es": "Los enchufes aquí son diferentes a los de casa.",
+    "ex_en": "The outlets here are different from the ones at home."
+  },
+  {
+    "es": "señal",
+    "ipa": "/se.ˈɲal/",
+    "pos": "noun (f.)",
+    "en": "signal",
+    "ex_es": "No había señal de teléfono en la montaña.",
+    "ex_en": "There was no phone signal in the mountains."
+  },
+  {
+    "es": "farmacia",
+    "ipa": "/faɾ.ˈma.sja/",
+    "pos": "noun (f.)",
+    "en": "pharmacy",
+    "ex_es": "Compramos protector solar en una farmacia cercana.",
+    "ex_en": "We bought sunscreen at a nearby pharmacy."
+  },
+  {
+    "es": "hospital",
+    "ipa": "/os.pi.ˈtal/",
+    "pos": "noun (m.)",
+    "en": "hospital",
+    "ex_es": "Por suerte no tuvimos que ir al hospital durante el viaje.",
+    "ex_en": "Luckily we didn't have to go to the hospital during the trip."
+  },
+  {
+    "es": "médico",
+    "ipa": "/ˈme.ði.ko/",
+    "pos": "noun (m.)",
+    "en": "doctor",
+    "ex_es": "El hotel nos recomendó un médico de confianza.",
+    "ex_en": "The hotel recommended a trustworthy doctor."
+  },
+  {
+    "es": "dolor",
+    "ipa": "/do.ˈloɾ/",
+    "pos": "noun (m.)",
+    "en": "pain",
+    "ex_es": "Tenía dolor de cabeza por el cambio de horario.",
+    "ex_en": "I had a headache from the time change."
+  },
+  {
+    "es": "ayuda",
+    "ipa": "/a.ˈʝu.ða/",
+    "pos": "noun (f.)",
+    "en": "help",
+    "ex_es": "Pedimos ayuda para encontrar la parada correcta.",
+    "ex_en": "We asked for help finding the right stop."
+  },
+  {
+    "es": "emergencia",
+    "ipa": "/e.meɾ.ˈxen.sja/",
+    "pos": "noun (f.)",
+    "en": "emergency",
+    "ex_es": "El seguro de viaje cubre las emergencias médicas.",
+    "ex_en": "Travel insurance covers medical emergencies."
+  },
+  {
+    "es": "seguro",
+    "ipa": "/se.ˈɣu.ɾo/",
+    "pos": "noun (m.)",
+    "en": "insurance",
+    "ex_es": "Contraté un seguro de viaje antes de salir.",
+    "ex_en": "I took out travel insurance before leaving."
+  },
+  {
+    "es": "policía",
+    "ipa": "/po.li.ˈsi.a/",
+    "pos": "noun (m./f.)",
+    "en": "police officer",
+    "ex_es": "Fuimos a la policía a reportar el robo.",
+    "ex_en": "We went to the police to report the theft."
+  },
+  {
+    "es": "perdido",
+    "ipa": "/peɾ.ˈði.ðo/",
+    "pos": "adjective",
+    "en": "lost",
+    "ex_es": "Me sentí perdido sin conexión a internet.",
+    "ex_en": "I felt lost without an internet connection."
+  },
+  {
+    "es": "robo",
+    "ipa": "/ˈro.βo/",
+    "pos": "noun (m.)",
+    "en": "theft",
+    "ex_es": "Nos avisaron sobre el riesgo de robo en la estación.",
+    "ex_en": "We were warned about the risk of theft at the station."
+  },
+  {
+    "es": "turista",
+    "ipa": "/tu.ˈɾis.ta/",
+    "pos": "noun (m./f.)",
+    "en": "tourist",
+    "ex_es": "La ciudad se llena de turistas en verano.",
+    "ex_en": "The city fills up with tourists in summer."
+  },
+  {
+    "es": "viaje",
+    "ipa": "/ˈbja.xe/",
+    "pos": "noun (m.)",
+    "en": "trip, journey",
+    "ex_es": "Este fue nuestro primer viaje juntos a Sudamérica.",
+    "ex_en": "This was our first trip together to South America."
+  },
+  {
+    "es": "visitar",
+    "ipa": "/bi.si.ˈtaɾ/",
+    "pos": "verb",
+    "en": "to visit",
+    "ex_es": "Queremos visitar el casco antiguo mañana.",
+    "ex_en": "We want to visit the old town tomorrow."
+  },
+  {
+    "es": "paisaje",
+    "ipa": "/pai.ˈsa.xe/",
+    "pos": "noun (m.)",
+    "en": "landscape, scenery",
+    "ex_es": "El paisaje desde el mirador era impresionante.",
+    "ex_en": "The view from the lookout was stunning."
+  },
+  {
+    "es": "playa",
+    "ipa": "/ˈpla.ʝa/",
+    "pos": "noun (f.)",
+    "en": "beach",
+    "ex_es": "Pasamos la tarde en la playa.",
+    "ex_en": "We spent the afternoon at the beach."
+  },
+  {
+    "es": "montaña",
+    "ipa": "/mon.ˈta.ɲa/",
+    "pos": "noun (f.)",
+    "en": "mountain",
+    "ex_es": "Hicimos senderismo en la montaña todo el día.",
+    "ex_en": "We went hiking in the mountains all day."
+  },
+  {
+    "es": "clima",
+    "ipa": "/ˈkli.ma/",
+    "pos": "noun (m.)",
+    "en": "climate, weather",
+    "ex_es": "El clima cambió de repente durante el viaje.",
+    "ex_en": "The weather changed suddenly during the trip."
+  },
+  {
+    "es": "lluvia",
+    "ipa": "/ˈʎu.βja/",
+    "pos": "noun (f.)",
+    "en": "rain",
+    "ex_es": "La lluvia nos obligó a cambiar de planes.",
+    "ex_en": "The rain forced us to change plans."
+  },
+  {
+    "es": "calor",
+    "ipa": "/ka.ˈloɾ/",
+    "pos": "noun (m.)",
+    "en": "heat",
+    "ex_es": "Hacía tanto calor que buscamos sombra.",
+    "ex_en": "It was so hot that we looked for shade."
+  },
+  {
+    "es": "frío",
+    "ipa": "/ˈfɾi.o/",
+    "pos": "noun (m.) / adjective",
+    "en": "cold",
+    "ex_es": "Llevamos abrigo porque hacía frío por la noche.",
+    "ex_en": "We brought a coat because it was cold at night."
+  },
+  {
+    "es": "horario",
+    "ipa": "/o.ˈɾa.ɾjo/",
+    "pos": "noun (m.)",
+    "en": "schedule, timetable",
+    "ex_es": "Revisamos el horario de trenes antes de salir.",
+    "ex_en": "We checked the train schedule before leaving."
+  },
+  {
+    "es": "gratis",
+    "ipa": "/ˈgɾa.tis/",
+    "pos": "adjective",
+    "en": "free (of charge)",
+    "ex_es": "La entrada al museo era gratis los domingos.",
+    "ex_en": "Admission to the museum was free on Sundays."
+  },
+  {
+    "es": "incluido",
+    "ipa": "/in.klu.ˈi.ðo/",
+    "pos": "adjective",
+    "en": "included",
+    "ex_es": "El desayuno está incluido en el precio de la habitación.",
+    "ex_en": "Breakfast is included in the room price."
+  },
+  {
+    "es": "disponible",
+    "ipa": "/dis.po.ˈni.βle/",
+    "pos": "adjective",
+    "en": "available",
+    "ex_es": "Preguntamos si había habitaciones disponibles para esta noche.",
+    "ex_en": "We asked if there were rooms available for tonight."
+  }
 ]
